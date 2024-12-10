@@ -1,0 +1,58 @@
+[
+
+    {
+        "id": 12,
+        "name": "Marinka",
+        "species": "Zamioculcas",
+        "lastWatered": "2024-12-05T01:00:00Z",
+        "wateringRecommendationDays": 10,
+        "careNotes": "Tolerates low light and low watering."
+    },
+
+    {
+        "id": 1,
+        "name": "Monstera Deliciosa",
+        "species": "Monstera",
+        "lastWatered": "2024-12-03T10:00:00Z",
+        "wateringRecommendationDays": 7,
+        "careNotes": "Keep in indirect sunlight and water when the soil is dry."
+    },
+    {
+        "id": 2,
+        "name": "Fiddle Leaf Fig",
+        "species": "Ficus lyrata",
+        "lastWatered": "2024-12-03T08:00:00Z",
+        "wateringRecommendationDays": 5,
+        "careNotes": "Needs bright, filtered light and consistent watering."
+    },
+    {
+        "id": 3,
+        "name": "Snake Plant",
+        "species": "Sansevieria",
+        "lastWatered": "2024-12-02T12:00:00Z",
+        "wateringRecommendationDays": 14,
+        "careNotes": "Tolerates low light and infrequent watering."
+    },
+    {
+        "id": 13,
+        "name": "Philodendron",
+        "species": "Philodendron hederaceum",
+        "lastWatered": "2024-11-27T10:00:00Z",
+        "wateringRecommendationDays": 7,
+        "careNotes": "Grows well in indirect sunlight and requires moderate watering."
+    },
+    {
+        "id": 14,
+        "name": "Bird of Paradise",
+        "species": "Strelitzia reginae",
+        "lastWatered": "2024-11-23T11:00:00Z",
+        "wateringRecommendationDays": 6,
+        "careNotes": "Needs bright light and regular watering."
+    }
+
+
+
+
+
+]
+
